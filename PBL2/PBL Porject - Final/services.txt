@@ -1,0 +1,5 @@
+1 Haircut(15$)
+2 WashHair(10$)
+3 BeardShave(8$)
+4 FaceMassage(20$)
+5 CleanEars(12$)

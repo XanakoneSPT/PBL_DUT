@@ -1,0 +1,19 @@
+Modified
+
+- Back button
+- Handle wrong type input
+- check senctence and grammar
+- Add for loop for catch if there is duplicate appointment (name, time, date)
+- Add more information display to show if generate bill yet or not
+
+- changed option 5 titile
+- set Id to start at 1 instead 0
+- add export function
+- add ID card for uniuqe numbers
+
+- added ordinal number of appointments
+- redo the whole load function
+
+- modified Customer, Service, Appointment, Appointment Manager [strncpy -> strcpy]
+- Modified handle when select repeat Services
+- Modified Customer file to be a bit more beauty
