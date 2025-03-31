@@ -1,5 +1,0 @@
-pip install customtkinter
-pip install scapy
-pip install openpyxl
-pip install matplotlib
-pip install psutil
