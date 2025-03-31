@@ -1,0 +1,95 @@
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\Dapper.dll
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\Dapper.xml
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.Up2Date
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.View.StaffForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.exe
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.pdb
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\bin\Debug\PBL3.exe.config
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\bin\Debug\PBL3.exe
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\bin\Debug\PBL3.pdb
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\bin\Debug\Dapper.dll
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\bin\Debug\Dapper.xml
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.csproj.Up2Date
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3 - Copy\PBL3\obj\Debug\PBL3.View.EquipmentForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.Main.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.CharityControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.EquipmentControl.resources
+C:\Users\keota\Downloads\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\keota\Downloads\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\keota\Downloads\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\keota\Downloads\PBL3\PBL3\bin\Debug\Dapper.dll
+C:\Users\keota\Downloads\PBL3\PBL3\bin\Debug\Dapper.xml
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.EquipmentControl.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.Main.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.CharityControl.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.StaffControl.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.csproj.Up2Date
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.LoginForm.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.QLTK_Admin.resources
+C:\Users\keota\Downloads\PBL3\PBL3\obj\Debug\PBL3.View.QLTK_A_E.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ChildrenControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.LoginForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.CustomerForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ProfileControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AdminForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ActivityControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.VolunteerControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AddCustomerForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AddStaffForm.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.StatisticsControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.NotifiactionControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AdoptionControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.IntroductionControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.FeedblackControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.DonateControl.resources
+D:\Documents\Bachelor in Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.FinancialControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\Dapper.dll
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\bin\Debug\Dapper.xml
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ActivityControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AddCustomerForm.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AddStaffForm.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AdminForm.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.AdoptionControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ChildrenControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.CustomerForm.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.DonateControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.EquipmentControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.LoginForm.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.Main.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.CharityControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.FeedblackControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.FinancialControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.UC.IntroductionControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.NotifiactionControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.ProfileControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.StatisticsControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.View.VolunteerControl.resources
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.csproj.Up2Date
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\Documents\Bachelor_in_Vietnam\2nd Year\2nd Semaster\PBL 3\Code\Demos\PBL3\PBL3\obj\Debug\PBL3.pdb

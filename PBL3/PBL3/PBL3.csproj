@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0578D1D-F2F4-432C-8948-32E2924346B3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PBL3</RootNamespace>
+    <AssemblyName>PBL3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.1.28\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Bean\AccountModel.cs" />
+    <Compile Include="Models\Bean\ActivityModel.cs" />
+    <Compile Include="Models\Bean\AdoptionModel.cs" />
+    <Compile Include="Models\Bean\CenterModel.cs" />
+    <Compile Include="Models\Bean\CharityModel.cs" />
+    <Compile Include="Models\Bean\ChildrenModel.cs" />
+    <Compile Include="Models\Bean\CustomerModel.cs" />
+    <Compile Include="Models\Bean\EquipmentModel.cs" />
+    <Compile Include="Models\Bean\EventModel.cs" />
+    <Compile Include="Models\Bean\FeedbackModel.cs" />
+    <Compile Include="Models\Bean\FinancialModel.cs" />
+    <Compile Include="Models\Bean\IntroductionModel.cs" />
+    <Compile Include="Models\Bean\StaffModel.cs" />
+    <Compile Include="Models\Bean\VolunteerModel.cs" />
+    <Compile Include="Models\Bo\Bo_AccountModel.cs" />
+    <Compile Include="Models\Bo\Bo_ActivityModel.cs" />
+    <Compile Include="Models\Bo\Bo_AdoptionModel.cs" />
+    <Compile Include="Models\Bo\Bo_CharityModel.cs" />
+    <Compile Include="Models\Bo\Bo_ChildrenModel.cs" />
+    <Compile Include="Models\Bo\Bo_CustomerModel.cs" />
+    <Compile Include="Models\Bo\Bo_EquipmentModel.cs" />
+    <Compile Include="Models\Bo\Bo_FeedbackModel.cs" />
+    <Compile Include="Models\Bo\Bo_FinancialModel.cs" />
+    <Compile Include="Models\Bo\Bo_Introduction.cs" />
+    <Compile Include="Models\Bo\Bo_StaffModel.cs" />
+    <Compile Include="Models\Bo\Bo_VolunteerModel.cs" />
+    <Compile Include="Models\Dao\Dao_AccountModel.cs" />
+    <Compile Include="Models\Dao\Dao_ActivityModel.cs" />
+    <Compile Include="Models\Dao\Dao_Adoption.cs" />
+    <Compile Include="Models\Dao\Dao_CharityModel.cs" />
+    <Compile Include="Models\Dao\Dao_ChildrenModel.cs" />
+    <Compile Include="Models\Dao\Dao_CustomerModel.cs" />
+    <Compile Include="Models\Dao\Dao_EquipmentModel.cs" />
+    <Compile Include="Models\Dao\Dao_FeedbackModel.cs" />
+    <Compile Include="Models\Dao\Dao_FinancialModel.cs" />
+    <Compile Include="Models\Dao\Dao_Introduction.cs" />
+    <Compile Include="Models\Dao\Dao_StaffModel.cs" />
+    <Compile Include="Models\Dao\Dao_VolunteerModel.cs" />
+    <Compile Include="Models\Dao\dbConnection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="System\Data\SqlClient\sqlConnection.cs" />
+    <Compile Include="View\UC\ActivityControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\ActivityControl.Designer.cs">
+      <DependentUpon>ActivityControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AddCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddCustomerForm.Designer.cs">
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AddStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddStaffForm.Designer.cs">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\AdoptionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\AdoptionControl.Designer.cs">
+      <DependentUpon>AdoptionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\ChildrenControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\ChildrenControl.Designer.cs">
+      <DependentUpon>ChildrenControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\DonateControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\DonateControl.Designer.cs">
+      <DependentUpon>DonateControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\EquipmentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\EquipmentControl.Designer.cs">
+      <DependentUpon>EquipmentControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\CharityControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\CharityControl.Designer.cs">
+      <DependentUpon>CharityControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\FeedblackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\FeedblackControl.Designer.cs">
+      <DependentUpon>FeedblackControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\FinancialControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\FinancialControl.Designer.cs">
+      <DependentUpon>FinancialControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\IntroductionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\IntroductionControl.Designer.cs">
+      <DependentUpon>IntroductionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\NotifiactionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\NotifiactionControl.Designer.cs">
+      <DependentUpon>NotifiactionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\ProfileControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\ProfileControl.Designer.cs">
+      <DependentUpon>ProfileControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\StatisticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\StatisticsControl.Designer.cs">
+      <DependentUpon>StatisticsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UC\VolunteerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UC\VolunteerControl.Designer.cs">
+      <DependentUpon>VolunteerControl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\UC\ActivityControl.resx">
+      <DependentUpon>ActivityControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AddCustomerForm.resx">
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AddStaffForm.resx">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\AdoptionControl.resx">
+      <DependentUpon>AdoptionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\ChildrenControl.resx">
+      <DependentUpon>ChildrenControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\DonateControl.resx">
+      <DependentUpon>DonateControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\EquipmentControl.resx">
+      <DependentUpon>EquipmentControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\CharityControl.resx">
+      <DependentUpon>CharityControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\FeedblackControl.resx">
+      <DependentUpon>FeedblackControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\FinancialControl.resx">
+      <DependentUpon>FinancialControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\IntroductionControl.resx">
+      <DependentUpon>IntroductionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\NotifiactionControl.resx">
+      <DependentUpon>NotifiactionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\ProfileControl.resx">
+      <DependentUpon>ProfileControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\StatisticsControl.resx">
+      <DependentUpon>StatisticsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UC\VolunteerControl.resx">
+      <DependentUpon>VolunteerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

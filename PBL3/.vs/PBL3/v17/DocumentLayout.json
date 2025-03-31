@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|d:\\documents\\bachelor_in_vietnam\\2nd year\\2nd semaster\\pbl 3\\code\\demos\\pbl3\\pbl3\\view\\uc\\activitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\uc\\activitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|d:\\documents\\bachelor_in_vietnam\\2nd year\\2nd semaster\\pbl 3\\code\\demos\\pbl3\\pbl3\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\pbl3\\view\\uc\\equipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\uc\\equipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\pbl3\\models\\dao\\dao_equipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\models\\dao\\dao_equipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\pbl3\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\pbl3\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\pbl3\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0578D1D-F2F4-432C-8948-32E2924346B3}|PBL3\\PBL3.csproj|solutionrelative:pbl3\\view\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivityControl.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\UC\\ActivityControl.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\UC\\ActivityControl.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\UC\\ActivityControl.cs [Design]",
+              "RelativeToolTip": "PBL3\\View\\UC\\ActivityControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:31:54.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipmentControl.cs",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\UC\\EquipmentControl.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\UC\\EquipmentControl.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\UC\\EquipmentControl.cs",
+              "RelativeToolTip": "PBL3\\View\\UC\\EquipmentControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:36:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dao_EquipmentModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\Models\\Dao\\Dao_EquipmentModel.cs",
+              "RelativeDocumentMoniker": "PBL3\\Models\\Dao\\Dao_EquipmentModel.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\Models\\Dao\\Dao_EquipmentModel.cs",
+              "RelativeToolTip": "PBL3\\Models\\Dao\\Dao_EquipmentModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:49:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\CustomerForm.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\CustomerForm.cs",
+              "RelativeToolTip": "PBL3\\View\\CustomerForm.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:52:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\CustomerForm.cs",
+              "ToolTip": "D:\\Documents\\Bachelor in Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Bachelor in Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:52:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\Main.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\Main.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\Main.cs",
+              "RelativeToolTip": "PBL3\\View\\Main.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwMsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:46:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\Main.cs",
+              "RelativeDocumentMoniker": "PBL3\\View\\Main.cs",
+              "ToolTip": "D:\\Documents\\Bachelor_in_Vietnam\\2nd Year\\2nd Semaster\\PBL 3\\Code\\Demos\\PBL3\\PBL3\\View\\Main.cs [Design]",
+              "RelativeToolTip": "PBL3\\View\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:38:53.297Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
